@@ -172,3 +172,6 @@ tags
 .aider*
 !.aiderignore
 .env
+Marlin/Kraken_Configuration.h
+Marlin/Kraken_Configuration_adv.h
+Kraken_platformio.ini
